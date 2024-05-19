@@ -1,0 +1,4 @@
+Number of  word: 5
+Number of  letter: 16
+Number of  digit: 5
+Number of  other: 4
