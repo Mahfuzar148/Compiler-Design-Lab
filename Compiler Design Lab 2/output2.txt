@@ -1,0 +1,10 @@
+Number of vowel : 18
+Number of consonant : 28
+Vowels that exist in the above string : 
+u u i e u e o o u e i e e E i e e i 
+Consonants that exist in the above string : 
+M n m n s t h s t d n t f C m p t r S c n c n g n r n g 
+Words that start with vowel : 
+is, of, Engineering, 
+Words that start with consonant : 
+Munmun, the, student, Computer, Science, 
